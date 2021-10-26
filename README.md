@@ -1,2 +1,2 @@
 # Spring-CodingExercise
-A Restaurant Application coding Exercise build on spring boot
+A Restaurant booking application coding Exercise build on spring boot
